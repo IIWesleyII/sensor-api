@@ -2,7 +2,7 @@ import csv
 import random
 import time
 from datetime import datetime
-#datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
 x_value = 0
 total_1 = 1000
 total_2 = 1000
